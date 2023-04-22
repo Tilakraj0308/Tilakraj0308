@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tilak_0308" target="blank"><img src="https://img.shields.io/twitter/follow/tilak_0308?logo=twitter&style=for-the-badge" alt="tilak_0308" /></a> </p>
 
-- 🔭 I’m currently working on [HandwrittenDigitRecognizer](https://github.com/Tilakraj0308/HandWrittenDigitRecognizer.git)
+<!-- - 🔭 I’m currently working on [HandwrittenDigitRecognizer](https://github.com/Tilakraj0308/HandWrittenDigitRecognizer.git) -->
 
-- 🌱 I’m currently learning **Flask, Machine Learning**
+- 🌱 I’m currently learning **CNN and Deep networks**
 
 - 📫 How to reach me **tilakraj7050@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wLegb3D0v8-u76rUPbQ7PWWojUxhMlK_/view?usp=drivesdk](https://drive.google.com/file/d/1wLegb3D0v8-u76rUPbQ7PWWojUxhMlK_/view?usp=drivesdk)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1wLegb3D0v8-u76rUPbQ7PWWojUxhMlK_/view?usp=drivesdk](https://drive.google.com/file/d/1wLegb3D0v8-u76rUPbQ7PWWojUxhMlK_/view?usp=drivesdk) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
